@@ -1,2 +1,8 @@
 sword and spear
+<<<<<<< HEAD
 wall of shields1
+=======
+wall of shields
+standing strong
+on this their chosen battle field
+>>>>>>> 1152b4797ca1a0b3f517f80e6da1f240d22475b0
